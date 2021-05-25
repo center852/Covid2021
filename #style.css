@@ -1,0 +1,64 @@
+@import url(footer.css);
+@import url(header.css);
+@import url(banner.css);
+@import url(blog.css);
+@import url(comoprotegerse.css);
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    margin: 0%;
+ }
+
+ p{
+    margin-bottom: 1.6em; 
+
+  }
+
+.container{  
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+  }
+
+h1{ 
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+h2{
+    text-align: center;
+}
+
+.main {
+    padding: 7rem;
+}
+
+section{
+    width: 100%;
+    margin-bottom: 25px;
+
+}
+
+/* CUERPO */
+
+#bienvenidos{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+    font-size: 1rem;
+}
+
+h7{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h4{
+    border-color: red;
+    border-style: solid;
+    border-width: 5px;
+}
